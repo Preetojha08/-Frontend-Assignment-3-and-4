@@ -19,3 +19,7 @@ Honk method that will print “Tuut tuut” when called and displays the brand, 
 6) Brand: Kia, Model: Forte, Year: 2020, Color: Blue, Price: 21,000, gas: 56
 
 Invoke the honk method for each instance of the car. You have a race between these cars for 7 turns, after each turn cars are loosing 5 litres of their gas if the car is new. if the car is not for the current year, the car is loosing 1 more litre for each year the build is before the current year for example the Mazda in example above will lose 5 + 4 litres. You should display the cars info with the remaining gas after each turn in a section on html document.
+
+## Output
+
+![Screenshot 2024-03-30 161328](https://github.com/Preetojha08/-Frontend-Assignment-3-and-4/assets/47290783/a914e8aa-f8dd-41d7-ab8c-d6c96b9cc2cc)
