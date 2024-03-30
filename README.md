@@ -1,16 +1,16 @@
-### Assignment 3 and 4 
+## Assignment 3 and 4 
 
-## Properties of Car object:
+### Properties of Car object:
 Brand 
 Model 
 Year 
 Color 
 Price (Use appropriate data types)
 
-## Methods of Car class:
+### Methods of Car class:
 Honk method that will print “Tuut tuut” when called and displays the brand, model, year, color and price of the car.
 
-## Create the following objects:
+### Create the following objects:
 1) Brand: Honda, Model: CR-V, Year: 2023, Color: Red, Price: 50,000, gas: 45
 2) Brand: Ford, Model: F-150, Year: 2020, Color: Black, Price: 25,000, gas: 30
 3) Brand: BMW, Model: X5, Year: 2022, Color: Green, Price: 60,000, gas: 65
@@ -18,6 +18,4 @@ Honk method that will print “Tuut tuut” when called and displays the brand, 
 5) Brand: Audi, Model: Q7, Year: 2018, Color: Silver, Price: 52,000, gas: 47
 6) Brand: Kia, Model: Forte, Year: 2020, Color: Blue, Price: 21,000, gas: 56
 
-Invoke the honk method for each instance of the car.
-you have a race between these cars for 7 turns, after each turn cars are loosing 5 litres of their gas if the car is new. if the car is not for the current year, the car is loosing 1 more litre for each year the build is before the current year for example the Mazda in example above will lose 5 + 4 litres
-you should display the cars info with the remaining gas after each turn in a section on html document.
+Invoke the honk method for each instance of the car. You have a race between these cars for 7 turns, after each turn cars are loosing 5 litres of their gas if the car is new. if the car is not for the current year, the car is loosing 1 more litre for each year the build is before the current year for example the Mazda in example above will lose 5 + 4 litres. You should display the cars info with the remaining gas after each turn in a section on html document.
